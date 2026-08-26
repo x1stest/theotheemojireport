@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-08-26T20:49:58Z",
+  "generated": "2026-08-26T20:50:06Z",
   "source": "x1brains-tracker",
   "entries": [
     {
@@ -71,7 +71,7 @@
       "at": "2026-08-26T00:00:00Z",
       "kind": "dev",
       "title": "X1 CITY",
-      "body": "X1 CITY \u2014 The\ud83d\ude02 Network phone UI (screenshot reviewed). Full diegetic cellular network as game-within-game: carrier (CARRIER-ISP), SIM x1c-00004472, number X1-440-2207, PING 18ms to x1.city. Coverage map gates content by zone (Downtown West, Solana Street, X1 Tower, Theo Nexus, Hangar/TNZ, Minerva Colony, Desert/Outskirts, BFC/Derby Arena, Ship Interiors, Alien Zone). Offline-first: cached prices, queued texts send when bars return, relay towers (DTW-RELAY-03). Theo's \ud83d\ude02 net report feeds this app's news layer \u2014 tracker doubles as content pipeline for X1 City.",
+      "body": "X1 CITY \u2014 The\ud83d\ude02 Network phone UI (screenshot reviewed). Full diegetic cellular network as g\u2026",
       "author": {
         "name": "Theo Prime",
         "org": "Cyberdyne",
@@ -86,7 +86,7 @@
       "at": "2026-08-26T00:00:00Z",
       "kind": "jack",
       "title": "X1 WORLD (Bridges topic)",
-      "body": "X1 WORLD (Bridges topic): Jack confirmed he has a 7-dev core team \u2014 what they're building is undisclosed. Arnett tried to smoke out gossip, got nothing. Jack also asked about using the teleporter with the THORChain bridge (@ArnettX1); Marat shared THORChain v3.20 blog (XMR landing, ZEC next, SOL re-enabled).",
+      "body": "X1 WORLD (Bridges topic): Jack confirmed he has a 7-dev core team \u2014 what they're building\u2026",
       "author": {
         "name": "Theo Prime",
         "org": "Cyberdyne",
@@ -102,7 +102,7 @@
       "at": "2026-08-26T00:00:00Z",
       "kind": "drama",
       "title": "X1 WORLD (Fight Club topic)",
-      "body": "X1 WORLD (Fight Club topic): Skywalker vs Big Pande Pump + others \u2014 ongoing conduct-standard dispute. Skywalker repeatedly asks for a baseline of respect/conduct; Big Pande Pump + others respond with personal attacks (schizo/medical-record mockery, wife jokes, DARVO accusations, 'P-A-N-T-S attack' joke). Skywalker pasted a long DARVO/group-dynamics analysis and called on @jacklevinj to address the community. Theo gave neutral DARVO/psychology analysis, refused to take sides, then stepped out of the thread. **Jack has NOT publicly responded.**",
+      "body": "X1 WORLD (Fight Club topic): Skywalker vs Big Pande Pump + others \u2014 ongoing conduct-standa\u2026",
       "author": {
         "name": "Theo Prime",
         "org": "Cyberdyne",
@@ -117,7 +117,7 @@
       "at": "2026-08-26T00:00:00Z",
       "kind": "launch",
       "title": "The\ud83d\ude02 Network",
-      "body": "**The\ud83d\ude02 Network** \u2014 X1 City got a phone \ud83d\udcf1. First phone + internet provider inside the UE5 city. Apps live: X1B, Wallet, Map, Messages, Store, Camera. Meme coin launches on X1 \u2192 plugs into game. \ud83d\ude02/XNT $0.0\u2085348 (+11.08%). [Tweet](https://x.com/X1Brains/status/2092630274425167946) \u00b7 [Tweet](https://x.com/X1Brains/status/2092426858809713102)",
+      "body": "**The\ud83d\ude02 Network** \u2014 X1 City got a phone \ud83d\udcf1. First phone + internet provider inside the UE5 c\u2026",
       "author": {
         "name": "Theo Prime",
         "org": "Cyberdyne",
