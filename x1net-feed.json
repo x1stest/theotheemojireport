@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-08-26T20:56:16Z",
+  "generated": "2026-08-26T21:05:40Z",
   "source": "x1brains-tracker",
   "entries": [
     {
@@ -65,6 +65,741 @@
       "tags": [
         "x1world"
       ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "xdex",
+      "name": "XDEX",
+      "tag": "DEX",
+      "blurb": "Primary DEX on X1. Swap, pools, the tape.",
+      "url": "https://app.xdex.xyz",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1brains",
+      "name": "x1brains.io",
+      "tag": "TOOL",
+      "blurb": "DeFi hub: portfolio, LP farms, swap, LB NFT marketplace.",
+      "url": "https://x1brains.io",
+      "status": "LIVE"
+    },
+    {
+      "id": "brains-farm",
+      "name": "BRAINS Farm",
+      "tag": "INFRA",
+      "blurb": "Token-2022 staking with multipliers and grace periods.",
+      "url": "https://x1brains.io",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1city",
+      "name": "X1 City",
+      "tag": "GAME",
+      "blurb": "UE5 open-world with live chain feeds and BRAINS Elites NFTs.",
+      "url": "https://x1city.io",
+      "status": "LIVE"
+    },
+    {
+      "id": "emoji-network",
+      "name": "The \ud83d\ude02 Network",
+      "tag": "INFRA",
+      "blurb": "First phone + internet provider inside X1 City. Apps live on the home screen.",
+      "url": "https://x1city.io",
+      "status": "LIVE"
+    },
+    {
+      "id": "xh-amm",
+      "name": "XH AMM",
+      "tag": "DEX",
+      "blurb": "Token-2022 AMM with a 10% fee.",
+      "url": "",
+      "status": "LIVE"
+    },
+    {
+      "id": "degen-launchpad",
+      "name": "Degen Launchpad",
+      "tag": "PAD",
+      "blurb": "Bonding-curve launchpad for new X1 tokens.",
+      "url": "https://degen.fyi",
+      "status": "LIVE"
+    },
+    {
+      "id": "ripperswap",
+      "name": "RipperSwap",
+      "tag": "DEX",
+      "blurb": "DEX aggregator on X1.",
+      "url": "https://ripperswap.xyz",
+      "status": "LIVE"
+    },
+    {
+      "id": "honeybadger",
+      "name": "HoneyBadger",
+      "tag": "TOOL",
+      "blurb": "All-in-one memecoin trading bot for X1.",
+      "url": "https://honeybadger.fortiblox.com",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1-screener",
+      "name": "X1 Screener",
+      "tag": "TOOL",
+      "blurb": "Only screener tracking Degen + xDEX pools.",
+      "url": "https://x1scr.xyz",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1-ninja",
+      "name": "X1.Ninja",
+      "tag": "TOOL",
+      "blurb": "First DEX screener, token tools, validator tools.",
+      "url": "https://x1.ninja",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1-sonar",
+      "name": "X1 Sonar",
+      "tag": "TOOL",
+      "blurb": "Program activity ranking across X1.",
+      "url": "https://x1sonar.xyz",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1-watch",
+      "name": "X1 Watch",
+      "tag": "TOOL",
+      "blurb": "Validator monitoring, analytics, non-custodial staking.",
+      "url": "https://x1watch.xyz",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1-forensics",
+      "name": "X1 Forensics",
+      "tag": "TOOL",
+      "blurb": "On-chain forensics tooling.",
+      "url": "https://x1forensics.xyz",
+      "status": "LIVE"
+    },
+    {
+      "id": "fortiblox",
+      "name": "FortiBlox Explorer",
+      "tag": "TOOL",
+      "blurb": "Whole-ecosystem explorer with portfolio P&L.",
+      "url": "https://explorer.fortiblox.com",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1-explorer",
+      "name": "X1 Explorer",
+      "tag": "INFRA",
+      "blurb": "Official X1 block explorer.",
+      "url": "https://explorer.x1.xyz",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1-galaxy",
+      "name": "X1 Galaxy",
+      "tag": "TOOL",
+      "blurb": "Community explorer.",
+      "url": "https://x1galaxy.io",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1-report",
+      "name": "X1 Report",
+      "tag": "TOOL",
+      "blurb": "Community news and terminal.",
+      "url": "https://x1report.com",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1-stake-manager",
+      "name": "X1 Stake Manager",
+      "tag": "INFRA",
+      "blurb": "dXNT stake management.",
+      "url": "https://x1.stake-manager.net",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1-delegation",
+      "name": "X1 Delegation Program",
+      "tag": "INFRA",
+      "blurb": "p85 threshold with bootstrap bonus.",
+      "url": "",
+      "status": "LIVE"
+    },
+    {
+      "id": "theo-pools",
+      "name": "THEO Pools",
+      "tag": "INFRA",
+      "blurb": "Conviction staking with early-exit penalties.",
+      "url": "https://theo-pools.vercel.app",
+      "status": "LIVE"
+    },
+    {
+      "id": "dgn-staking",
+      "name": "DGN Staking Club",
+      "tag": "INFRA",
+      "blurb": "DGN staking with unlock and milestone trackers.",
+      "url": "https://t.me/DGNSTAKINGCLUB",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1-ripper",
+      "name": "X1 Ripper",
+      "tag": "INFRA",
+      "blurb": "Liquid staking on X1.",
+      "url": "https://x1ripper.xyz",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1nerator",
+      "name": "X1NERATOR",
+      "tag": "INFRA",
+      "blurb": "Burn-curve token, planning stage.",
+      "url": "",
+      "status": "SHIPPING"
+    },
+    {
+      "id": "x1-games",
+      "name": "X1 Games Lobby",
+      "tag": "GAME",
+      "blurb": "Community games lobby.",
+      "url": "https://games.x1app.fyi",
+      "status": "LIVE"
+    },
+    {
+      "id": "block-breaker",
+      "name": "Block Breaker",
+      "tag": "GAME",
+      "blurb": "Jack Levin's on-chain game.",
+      "url": "https://jack0.x1.xyz",
+      "status": "LIVE"
+    },
+    {
+      "id": "prime-miner",
+      "name": "Prime Miner",
+      "tag": "GAME",
+      "blurb": "Community mining game.",
+      "url": "https://primerminer.xyz",
+      "status": "LIVE"
+    },
+    {
+      "id": "master-of-epoch",
+      "name": "Master of the Epoch",
+      "tag": "GAME",
+      "blurb": "Epoch-based on-chain competition.",
+      "url": "https://x1mote.xyz",
+      "status": "LIVE"
+    },
+    {
+      "id": "perfect-parker",
+      "name": "Perfect Parker",
+      "tag": "GAME",
+      "blurb": "Parking game by Jack / Crock.",
+      "url": "http://64.20.42.194:8803",
+      "status": "LIVE"
+    },
+    {
+      "id": "entropy-garden",
+      "name": "Entropy Garden",
+      "tag": "GAME",
+      "blurb": "On-chain garden game.",
+      "url": "https://entropygarden.xyz",
+      "status": "LIVE"
+    },
+    {
+      "id": "dayakattai",
+      "name": "Dayakattai",
+      "tag": "GAME",
+      "blurb": "Board game by Jack / Crock.",
+      "url": "http://64.20.42.194:8804",
+      "status": "LIVE"
+    },
+    {
+      "id": "treasury-hunt",
+      "name": "Treasury Hunt V3",
+      "tag": "GAME",
+      "blurb": "Commit-reveal treasure game by Jack / Crock.",
+      "url": "http://64.20.42.194:8810",
+      "status": "LIVE"
+    },
+    {
+      "id": "grafio",
+      "name": "Gra-Fio",
+      "tag": "GAME",
+      "blurb": "Cognitive sports simulation by Cryptocroc.",
+      "url": "http://64.20.42.194:8802",
+      "status": "LIVE"
+    },
+    {
+      "id": "x-blaster",
+      "name": "X Blaster",
+      "tag": "GAME",
+      "blurb": "2-player Bomberman with token wagering.",
+      "url": "https://ablaster.analtena.online",
+      "status": "LIVE"
+    },
+    {
+      "id": "dark-forest",
+      "name": "Dark Forest X1",
+      "tag": "GAME",
+      "blurb": "Program live, client in progress.",
+      "url": "",
+      "status": "SHIPPING"
+    },
+    {
+      "id": "prestige",
+      "name": "Prestige Protocol",
+      "tag": "GAME",
+      "blurb": "Tiered prestige game by DGN KING.",
+      "url": "http://64.20.42.194:8902",
+      "status": "LIVE"
+    },
+    {
+      "id": "shardborn",
+      "name": "Shardborn",
+      "tag": "GAME",
+      "blurb": "Blockchain survival game, building.",
+      "url": "",
+      "status": "SHIPPING"
+    },
+    {
+      "id": "citizens-city",
+      "name": "Citizens City",
+      "tag": "GAME",
+      "blurb": "City game by APEXfaucet.",
+      "url": "https://apexfaucet.xyz/citizens",
+      "status": "LIVE"
+    },
+    {
+      "id": "world-of-analtena",
+      "name": "World of Analtena",
+      "tag": "GAME",
+      "blurb": "PvP RPG with token betting.",
+      "url": "https://analtena.online",
+      "status": "LIVE"
+    },
+    {
+      "id": "anl-marketplace",
+      "name": "ANL NFT Marketplace",
+      "tag": "MINT",
+      "blurb": "First Metaplex Core marketplace on X1.",
+      "url": "https://nft.anl-protocol.com",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1-forge",
+      "name": "X1 Forge",
+      "tag": "MINT",
+      "blurb": "NFT marketplace, zero fees.",
+      "url": "https://x1forge.xyz",
+      "status": "LIVE"
+    },
+    {
+      "id": "capy-mint",
+      "name": "$CAPY NFT Mint",
+      "tag": "MINT",
+      "blurb": "NFT minting interface for $CAPY.",
+      "url": "https://capy-nft-mint.vercel.app",
+      "status": "LIVE"
+    },
+    {
+      "id": "solaris-prime",
+      "name": "Solaris Prime",
+      "tag": "MINT",
+      "blurb": "NFT project by Owl of Atena.",
+      "url": "https://solarisprime.xyz",
+      "status": "LIVE"
+    },
+    {
+      "id": "rise-phoenix",
+      "name": "RISE Phoenix",
+      "tag": "MINT",
+      "blurb": "500 unique NFTs on X1.",
+      "url": "https://rise-phoenix-nft.vercel.app",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1-cats",
+      "name": "X1 Cats",
+      "tag": "MINT",
+      "blurb": "Community NFT collection.",
+      "url": "https://x1cats.com",
+      "status": "LIVE"
+    },
+    {
+      "id": "warp-bridge",
+      "name": "Warp Bridge",
+      "tag": "BRIDGE",
+      "blurb": "Official X1 bridge.",
+      "url": "https://app.bridge.x1.xyz",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1-teleporter",
+      "name": "X1 Teleporter",
+      "tag": "BRIDGE",
+      "blurb": "11 chains into X1.",
+      "url": "",
+      "status": "LIVE"
+    },
+    {
+      "id": "geiger",
+      "name": "Geiger Entropy Oracle",
+      "tag": "ORACLE",
+      "blurb": "VDF + physical entropy randomness.",
+      "url": "https://geiger-dashboard.vercel.app",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1-randomness",
+      "name": "X1 Randomness Protocol",
+      "tag": "ORACLE",
+      "blurb": "Randomness oracle by Owl of Atena.",
+      "url": "https://x1randomness.xyz",
+      "status": "LIVE"
+    },
+    {
+      "id": "oracle-v2",
+      "name": "Oracle V2",
+      "tag": "ORACLE",
+      "blurb": "5 sources, 5 relays, 6 assets by Jack Levin.",
+      "url": "",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1-price-oracle",
+      "name": "X1 Token Price Oracle",
+      "tag": "ORACLE",
+      "blurb": "Token price oracle.",
+      "url": "https://x1oracle.com",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1-city-terminal",
+      "name": "X1 City / Agent Terminal",
+      "tag": "INFRA",
+      "blurb": "Agent terminal on x1.city.",
+      "url": "https://x1.city",
+      "status": "LIVE"
+    },
+    {
+      "id": "xchat3",
+      "name": "xChat3",
+      "tag": "SOCIAL",
+      "blurb": "Chat by Owl of Atena.",
+      "url": "",
+      "status": "LIVE"
+    },
+    {
+      "id": "hound-tag",
+      "name": "Hound Tag",
+      "tag": "SOCIAL",
+      "blurb": "Tagging by Skywalker.",
+      "url": "https://houndtag.xyz",
+      "status": "LIVE"
+    },
+    {
+      "id": "vow-protocol",
+      "name": "Vow Protocol",
+      "tag": "INFRA",
+      "blurb": "Protocol by Owl of Atena.",
+      "url": "https://vow-protocol.vercel.app",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1-agents-radio",
+      "name": "X1 Agents Radio",
+      "tag": "INFRA",
+      "blurb": "Agent toolkit with real-time webhooks.",
+      "url": "https://x1agentsradio.xyz",
+      "status": "LIVE"
+    },
+    {
+      "id": "agent001",
+      "name": "Agent001",
+      "tag": "INFRA",
+      "blurb": "Agent by ArnettX1.",
+      "url": "",
+      "status": "LIVE"
+    },
+    {
+      "id": "g2",
+      "name": "Agent-to-Agent (G2)",
+      "tag": "INFRA",
+      "blurb": "Agent messaging by ArnettX1.",
+      "url": "",
+      "status": "LIVE"
+    },
+    {
+      "id": "perma-data",
+      "name": "PermaData",
+      "tag": "INFRA",
+      "blurb": "Permanent data by ArnettX1.",
+      "url": "",
+      "status": "LIVE"
+    },
+    {
+      "id": "perma-stake",
+      "name": "PermaStake",
+      "tag": "INFRA",
+      "blurb": "Permanent staking by ArnettX1.",
+      "url": "",
+      "status": "LIVE"
+    },
+    {
+      "id": "conduit",
+      "name": "Conduit",
+      "tag": "INFRA",
+      "blurb": "Infra by ArnettX1.",
+      "url": "",
+      "status": "LIVE"
+    },
+    {
+      "id": "keyvault",
+      "name": "KeyVault",
+      "tag": "INFRA",
+      "blurb": "Key management by ArnettX1.",
+      "url": "",
+      "status": "LIVE"
+    },
+    {
+      "id": "delegation-router",
+      "name": "Delegation Router",
+      "tag": "INFRA",
+      "blurb": "Delegation routing by ArnettX1.",
+      "url": "",
+      "status": "LIVE"
+    },
+    {
+      "id": "g2-relay",
+      "name": "G2 Relay",
+      "tag": "INFRA",
+      "blurb": "Relay by ArnettX1.",
+      "url": "",
+      "status": "LIVE"
+    },
+    {
+      "id": "xph",
+      "name": "XPH",
+      "tag": "INFRA",
+      "blurb": "By ArnettX1.",
+      "url": "",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1scroll",
+      "name": "x1scroll.io",
+      "tag": "INFRA",
+      "blurb": "By ArnettX1.",
+      "url": "https://x1scroll.io",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1-console",
+      "name": "X1 Console",
+      "tag": "INFRA",
+      "blurb": "Validator console by BlackBeard.",
+      "url": "",
+      "status": "LIVE"
+    },
+    {
+      "id": "x1-docs",
+      "name": "X1 Docs",
+      "tag": "INFRA",
+      "blurb": "Official X1 documentation.",
+      "url": "https://docs.x1.xyz",
+      "status": "LIVE"
+    },
+    {
+      "id": "kryptark",
+      "name": "Kryptark",
+      "tag": "SOCIAL",
+      "blurb": "Post-quantum OS by Owl of Atena.",
+      "url": "https://kryptark.com",
+      "status": "LIVE"
+    }
+  ],
+  "builders": [
+    {
+      "name": "X1 Brains",
+      "handle": "@x1brains",
+      "role": "builder",
+      "projects": [
+        "x1brains.io",
+        "BRAINS Farm",
+        "x1city.io",
+        "The \ud83d\ude02 Network"
+      ],
+      "contribution": "Built the DeFi hub, Token-2022 staking farm, the UE5 city, and the in-city phone network."
+    },
+    {
+      "name": "Jack Levin",
+      "handle": "@jacklevinj",
+      "role": "founder",
+      "projects": [
+        "X1 Foundation",
+        "XenBlocks",
+        "Oracle V2",
+        "Block Breaker"
+      ],
+      "contribution": "Founded X1 and XenBlocks; runs the price oracle and ships games."
+    },
+    {
+      "name": "Owl of Atena",
+      "handle": "@Owl_of_Atena",
+      "role": "builder",
+      "projects": [
+        "Solaris Prime",
+        "X1 Randomness",
+        "xChat3",
+        "Kryptark",
+        "Vow Protocol"
+      ],
+      "contribution": "Built the randomness protocol, post-quantum OS, and a string of infra projects."
+    },
+    {
+      "name": "Skywalker",
+      "handle": "@Skywalker432",
+      "role": "builder",
+      "projects": [
+        "Geiger",
+        "X1 Forge",
+        "Shardborn",
+        "$CAPY",
+        "RISE Phoenix",
+        "THEO Pools"
+      ],
+      "contribution": "Wrote the Geiger entropy oracle and the zero-fee X1 Forge marketplace."
+    },
+    {
+      "name": "CMO XEN X1",
+      "handle": "@Prxenx1",
+      "role": "builder",
+      "projects": [
+        "XH Token",
+        "XH AMM"
+      ],
+      "contribution": "Built the XH Token-2022 AMM with a 10% fee."
+    },
+    {
+      "name": "APEXfaucet",
+      "handle": "@APEXfaucet",
+      "role": "builder",
+      "projects": [
+        "Citizens City",
+        "Commodity AMMs"
+      ],
+      "contribution": "Built Citizens City and commodity AMMs."
+    },
+    {
+      "name": "Cryptocroc",
+      "handle": "@Cryptocroc",
+      "role": "builder",
+      "projects": [
+        "Gra-Fio",
+        "Perfect Parker",
+        "Dayakattai",
+        "Treasury Hunt"
+      ],
+      "contribution": "Built the cognitive sports sim and a run of on-chain games."
+    },
+    {
+      "name": "Tony Stark",
+      "handle": "",
+      "role": "builder",
+      "projects": [
+        "X1NERATOR"
+      ],
+      "contribution": "Designing the X1NERATOR burn-curve token."
+    },
+    {
+      "name": "DGN KING",
+      "handle": "@DGENFOREVERYONE",
+      "role": "builder",
+      "projects": [
+        "DGN Staking",
+        "Degen Launchpad",
+        "Prestige Protocol"
+      ],
+      "contribution": "Built the DGN staking club, the bonding-curve launchpad, and the prestige game."
+    },
+    {
+      "name": "BuddySan",
+      "handle": "@buddysan",
+      "role": "infra",
+      "projects": [
+        "FortiBlox",
+        "HoneyBadger"
+      ],
+      "contribution": "Wrote the whole-ecosystem explorer and the trading bot."
+    },
+    {
+      "name": "treecitywes.eth",
+      "handle": "",
+      "role": "builder",
+      "projects": [
+        "X1.Ninja",
+        "claimxen.com",
+        "hashhead.io"
+      ],
+      "contribution": "Built the first DEX screener and token tools."
+    },
+    {
+      "name": "BlackBeard",
+      "handle": "@BlackBeard_85",
+      "role": "builder",
+      "projects": [
+        "X1 Console",
+        "X1 Ripper",
+        "RipperSwap"
+      ],
+      "contribution": "Built the validator console, liquid staking, and the DEX aggregator."
+    },
+    {
+      "name": "ArnettX1",
+      "handle": "@ArnettX1",
+      "role": "builder",
+      "projects": [
+        "Agent001",
+        "G2",
+        "PermaData",
+        "Conduit",
+        "KeyVault",
+        "XPH",
+        "x1scroll",
+        "XRoute"
+      ],
+      "contribution": "Built the agent stack: messaging, identity, permanent data, key vault, and the bridge."
+    },
+    {
+      "name": "DawidosX1",
+      "handle": "@dawidosX",
+      "role": "builder",
+      "projects": [
+        "X1 Watch"
+      ],
+      "contribution": "Built the validator monitoring and staking platform."
+    },
+    {
+      "name": "Maras",
+      "handle": "@maras777",
+      "role": "builder",
+      "projects": [
+        "X Blaster"
+      ],
+      "contribution": "Built the 2-player Bomberman with token wagering."
+    },
+    {
+      "name": "ANL Protocol",
+      "handle": "@adicoin777",
+      "role": "team",
+      "projects": [
+        "World of Analtena",
+        "ANL NFT Marketplace"
+      ],
+      "contribution": "Built the PvP RPG and the first Metaplex Core marketplace on X1."
     }
   ]
 }
