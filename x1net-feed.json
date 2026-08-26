@@ -1,0 +1,40 @@
+{
+    "version": 1,
+    "generated": "2026-08-26T15:20:00Z",                                                                                    "source": "x1brains-tracker",                                                                                           "note": "SEED FILE. Entries below are transcribed from the X1 World / Cyberdyne log the owner supplied. Theo          overwrites this whole file on each publish — see NETFEED_CONTRACT.md.",                                                   "entries": [                                                                                                              {                                                                                                                         "id": "2026-08-26-emoji-network-phone",                                                                                 "at": "2026-08-26T14:56:00Z",                                                                                           "kind": "launch",
+        "title": "The 😂 Network handset lands in X1 City",
+        "body": "A carrier inside the game: relay towers on real rooftops, coverage that drops as you walk out of range,  and a phone with a number other citizens can call. No signal is a state, not a spinner.",
+        "author": { "name": "the desk", "org": "X1 City" },
+        "tags": ["emoji-network", "x1city"],
+        "links": [{ "label": "How the network runs", "url": "https://lol.x1.city/#/network" }]
+      },
+      {
+        "id": "2026-08-26-jack-7dev",
+        "at": "2026-08-26T13:58:00Z",
+        "kind": "jack",
+        "title": "Jack confirms a 7-dev core team",
+        "body": "Confirmed in the X1 World bridges topic. What they are building is undisclosed.",
+        "author": { "name": "Theo Prime", "org": "Cyberdyne", "handle": "@theo" },
+        "tags": ["x1world", "bridges"]
+      },
+      {
+        "id": "2026-08-26-thorchain-teleporter",
+        "at": "2026-08-26T13:50:00Z",
+        "kind": "dev",
+        "title": "THORChain bridge on the table",
+        "body": "Jack asked about using the teleporter with the THORChain bridge. Marat shared the v3.20 notes — XMR
+  landing, ZEC next, SOL re-enabled.",
+        "author": { "name": "Theo Prime", "org": "Cyberdyne", "handle": "@theo" },
+        "tags": ["x1world", "bridges", "thorchain"]
+      },
+      {
+        "id": "2026-08-26-conduct-row",
+        "at": "2026-08-26T13:20:00Z",
+        "kind": "drama",
+        "title": "Conduct row rumbles on in Fight Club",
+        "body": "A dispute over conduct standards. Jack was called on to address the community; no public response
+  yet.",
+        "author": { "name": "Theo Prime", "org": "Cyberdyne", "handle": "@theo" },
+        "tags": ["x1world", "fightclub"]
+      }
+    ]
+  }
