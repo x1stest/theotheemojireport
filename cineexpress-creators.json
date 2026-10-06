@@ -1,16 +1,1 @@
-[
- {
-  "id": "Sintel",
-  "title": "Test Creador",
-  "year": 2010,
-  "genre": "Animación",
-  "kind": "pelicula",
-  "tag": "creador",
-  "lic": "autorizado por el creador",
-  "creator": "Theo",
-  "contact": "",
-  "url": "https://archive.org/details/Sintel",
-  "desc": "prueba",
-  "ts": "2026-10-06T13:56:27.091Z"
- }
-]
+[]
